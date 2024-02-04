@@ -1,0 +1,200 @@
+{
+    "data": [
+        {
+            "id": "i-8.8.8.8-72cda583",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-72cda583"
+            },
+            "attributes": {
+                "text": "This indicator was mentioned in a report.\n\n\ud83d\udd0e Title: Turkish espionage campaigns in the Netherlands\n\ud83d\udcd1 Reference: https://www.huntandhackett.com/blog/turkish-espionage-campaigns\n\ud83d\udcc6 Report Publish Date: 2024-01-08\n\ud83c\udff7\ufe0f Reference ID: #b96b74a83 (https://www.virustotal.com/gui/search/b96b74a83/comments for report's related indicators)\n",
+                "html": "This indicator was mentioned in a report.<br /><br />\ud83d\udd0e Title: Turkish espionage campaigns in the Netherlands<br />\ud83d\udcd1 Reference: https://www.huntandhackett.com/blog/turkish-espionage-campaigns<br />\ud83d\udcc6 Report Publish Date: 2024-01-08<br />\ud83c\udff7\ufe0f Reference ID: #b96b74a83 (https://www.virustotal.com/gui/search/b96b74a83/comments for report&amp;#x27;s related indicators)<br />",
+                "tags": [
+                    "b96b74a83"
+                ],
+                "date": 1706382951,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-348c1b38",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-348c1b38"
+            },
+            "attributes": {
+                "text": "This is a comment!!!",
+                "html": "This is a comment!!!",
+                "tags": [],
+                "date": 1702716469,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-018621bc",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-018621bc"
+            },
+            "attributes": {
+                "text": "Lorem ipsum sit ...",
+                "html": "Lorem ipsum sit &#8230;",
+                "tags": [],
+                "date": 1702387302,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-22cd44ec",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-22cd44ec"
+            },
+            "attributes": {
+                "text": "Lorem ipsum dolor sit ...",
+                "html": "Lorem ipsum dolor sit &#8230;",
+                "tags": [],
+                "date": 1702386916,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-1fd7c169",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-1fd7c169"
+            },
+            "attributes": {
+                "text": "Takes you to \"dns.google.\"",
+                "html": "Takes you to &amp;quot;dns.google.&amp;quot;",
+                "tags": [],
+                "date": 1700170889,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-10fe763a",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-10fe763a"
+            },
+            "attributes": {
+                "text": "This indicator was mentioned in a report.\n\n\ud83d\udd0e Title: Blocking Dedicated Attacking Hosts Is Not Enough: In-Depth Analysis of a Worldwide Linux XorDDoS Campaign\n\ud83d\udcd1 Reference: https://unit42.paloaltonetworks.com/new-linux-xorddos-trojan-campaign-delivers-malware/\n\ud83d\udcc6 Report Publish Date: 2023-10-16\n\ud83c\udff7\ufe0f Reference ID: #da4629950 (https://www.virustotal.com/gui/search/da4629950/comments for report's related indicators)\n",
+                "html": "This indicator was mentioned in a report.<br /><br />\ud83d\udd0e Title: Blocking Dedicated Attacking Hosts Is Not Enough: In-Depth Analysis of a Worldwide Linux XorDDoS Campaign<br />\ud83d\udcd1 Reference: https://unit42.paloaltonetworks.com/new-linux-xorddos-trojan-campaign-delivers-malware/<br />\ud83d\udcc6 Report Publish Date: 2023-10-16<br />\ud83c\udff7\ufe0f Reference ID: #da4629950 (https://www.virustotal.com/gui/search/da4629950/comments for report&amp;#x27;s related indicators)<br />",
+                "tags": [
+                    "da4629950"
+                ],
+                "date": 1697571008,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-b016e366",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-b016e366"
+            },
+            "attributes": {
+                "text": "This indicator was mentioned in a report.\n\n\ud83d\udd0e Title: ToddyCat: Keep calm and check logs\n\ud83d\udcd1 Reference: https://securelist.com/toddycat-keep-calm-and-check-logs/110696/\n\ud83d\udcc6 Report Publish Date: 2023-10-12\n\ud83c\udff7\ufe0f Reference ID: #b6c797d82 (https://www.virustotal.com/gui/search/b6c797d82/comments for report's related indicators)\n",
+                "html": "This indicator was mentioned in a report.<br /><br />\ud83d\udd0e Title: ToddyCat: Keep calm and check logs<br />\ud83d\udcd1 Reference: https://securelist.com/toddycat-keep-calm-and-check-logs/110696/<br />\ud83d\udcc6 Report Publish Date: 2023-10-12<br />\ud83c\udff7\ufe0f Reference ID: #b6c797d82 (https://www.virustotal.com/gui/search/b6c797d82/comments for report&amp;#x27;s related indicators)<br />",
+                "tags": [
+                    "b6c797d82"
+                ],
+                "date": 1697454465,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-c73c7164",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-c73c7164"
+            },
+            "attributes": {
+                "text": "This indicator was mentioned in a report.\n\n\ud83d\udd0e Title: Sensitive Data Exfiltration Campaign Targets npm and PyPI\n\ud83d\udcd1 Reference: https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/\n\ud83d\udcc6 Report Publish Date: 2023-09-29\n\ud83c\udff7\ufe0f Reference ID: #de6b1cdc2 (https://www.virustotal.com/gui/search/de6b1cdc2/comments for report's related indicators)\n",
+                "html": "This indicator was mentioned in a report.<br /><br />\ud83d\udd0e Title: Sensitive Data Exfiltration Campaign Targets npm and PyPI<br />\ud83d\udcd1 Reference: https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/<br />\ud83d\udcc6 Report Publish Date: 2023-09-29<br />\ud83c\udff7\ufe0f Reference ID: #de6b1cdc2 (https://www.virustotal.com/gui/search/de6b1cdc2/comments for report&amp;#x27;s related indicators)<br />",
+                "tags": [
+                    "de6b1cdc2"
+                ],
+                "date": 1696975138,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-eea2ac51",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-eea2ac51"
+            },
+            "attributes": {
+                "text": "Lorem ipsum dolor sit ...",
+                "html": "Lorem ipsum dolor sit &#8230;",
+                "tags": [],
+                "date": 1694055509,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        },
+        {
+            "id": "i-8.8.8.8-b2dab4f8",
+            "type": "comment",
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/comments/i-8.8.8.8-b2dab4f8"
+            },
+            "attributes": {
+                "text": "C2 Redline - 8.8.8.8 \n By my bot @TrackerC2Bot",
+                "html": "C2 Redline - 8.8.8.8 <br /> By my bot @TrackerC2Bot",
+                "tags": [],
+                "date": 1693958478,
+                "votes": {
+                    "positive": 0,
+                    "negative": 0,
+                    "abuse": 0
+                }
+            }
+        }
+    ],
+    "meta": {
+        "count": 79,
+        "cursor": "CmEKEQoEZGF0ZRIJCMPJi4vXlIEDEkhqEXN-dmlydXN0b3RhbGNsb3VkcjMLEglJcEFkZHJlc3MiBzguOC44LjgMCxIHQ29tbWVudCIQOC44LjguOC1iMmRhYjRmOAwYACAB"
+    },
+    "links": {
+        "self": "https://www.virustotal.com/api/v3/ip_addresses/8.8.8.8/comments?limit=10",
+        "next": "https://www.virustotal.com/api/v3/ip_addresses/8.8.8.8/comments?limit=10&cursor=CmEKEQoEZGF0ZRIJCMPJi4vXlIEDEkhqEXN-dmlydXN0b3RhbGNsb3VkcjMLEglJcEFkZHJlc3MiBzguOC44LjgMCxIHQ29tbWVudCIQOC44LjguOC1iMmRhYjRmOAwYACAB"
+    }
+}
